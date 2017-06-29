@@ -1,7 +1,7 @@
 {
-  "name": "docpress",
-  "description": "Documentation website generator",
-  "homepage": "https://github.com/docpress/docpress#readme",
+  "name": "jieri",
+  "description": "中国传统节日",
+  "homepage": "https://jieri.flinhong.com",
   "version": "0.7.1",
   "main": "index.js",
   "bin": {
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/docpress/docpress.git"
+    "url": "git+https://github.com/flinhong/jieri.git"
   },
   "bugs": {
-    "url": "https://github.com/docpress/docpress/issues"
+    "url": "https://github.com/flinhong/jieri/issues"
   },
   "keywords": [
     "documentation",
@@ -46,7 +46,7 @@
   },
   "scripts": {
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
-    "deploy": "bin/docpress b && git-update-ghpages -b master docpress/docpress.github.io _docpress",
+    "deploy": "bin/docpress b && git-update-ghpages -b gh-pages flinhong/jieri _docpress",
     "lint": "standard",
     "pretest": "npm run lint",
     "test": "nyc mocha"
