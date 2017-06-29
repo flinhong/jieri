@@ -11,7 +11,7 @@ cache:
 script:
 - npm install
 - cd bin
-- bin/docpress build
+- ./bin/docpress build
 
 # Deploy to gh-pages
 after_success:
