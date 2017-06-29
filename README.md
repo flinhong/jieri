@@ -1,7 +1,7 @@
-# Docpress
+# 中国传统节日
 <!--{h1:.massive-header.-with-tagline}-->
 
-> Painless Markdown publishing
+> 我国是个多民族国家，每个民族都有自己的传统节日。而每个节日都有其悠久的历史、动人的传说、瑰丽的色彩和独特的情趣。
 
 Documentation website generator.<br>
 Generates great websites from Markdown files.
