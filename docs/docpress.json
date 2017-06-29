@@ -1,5 +1,5 @@
 {
-  "github": "docpress/docpress",
+  "github": "flinhong/jieri",
   "css": [
     "http://ricostacruz.com/docpress-rsc/style.css",
     "docs/assets/custom.css"
@@ -15,7 +15,7 @@
     "docpress-base": {}
   },
   "googleAnalytics": {
-    "id": "UA-70057942-1",
-    "domain": "docpress.github.io"
+    "id": "UA-82518311-1",
+    "domain": "jieri.flinhong.com"
   }
 }
