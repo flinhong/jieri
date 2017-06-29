@@ -10,8 +10,8 @@ cache:
 # Build docs using latest docpress plugins
 script:
 - npm install
-- ls
-- ./bin/docpress build
+- cd bin
+- ./docpress build
 
 # Deploy to gh-pages
 after_success:
