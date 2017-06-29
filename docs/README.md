@@ -16,4 +16,4 @@
   * [Automating GitHub pages](advanced/gh-pages.md)
   * [Hacking Docpress](advanced/hacking.md)
 * 孟春节日
-  * [春节](孟春节日/春节.md)
+  * [春节](mengchun/chunjie.md)
