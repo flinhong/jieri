@@ -121,26 +121,13 @@
             "title": "春节",
             "source": "docs/mengchun/chunjie.md",
             "url": "mengchun/chunjie.html",
-            "slug": "mengchunchunjie",
-            "headings": [
-              {
-                "title": "春节由来",
-                "depth": 2,
-                "id": ""
-              },
-              {
-                "title": "春节习俗",
-                "depth": 2,
-                "id": "",
-                "headings": [
-                  {
-                    "title": "扫尘",
-                    "depth": 3,
-                    "id": ""
-                  }
-                ]
-              }
-            ]
+            "slug": "mengchunchunjie"
+          },
+          {
+            "title": "立春",
+            "source": "docs/mengchun/lichun.md",
+            "url": "mengchun/lichun.html",
+            "slug": "mengchunlichun"
           }
         ]
       }
@@ -259,26 +246,13 @@
       "source": "docs/mengchun/chunjie.md",
       "title": "春节 - 中国传统节日",
       "pageTitle": "春节",
-      "slug": "mengchunchunjie",
-      "headings": [
-        {
-          "title": "春节由来",
-          "depth": 2,
-          "id": ""
-        },
-        {
-          "title": "春节习俗",
-          "depth": 2,
-          "id": "",
-          "headings": [
-            {
-              "title": "扫尘",
-              "depth": 3,
-              "id": ""
-            }
-          ]
-        }
-      ]
+      "slug": "mengchunchunjie"
+    },
+    "mengchun/lichun.html": {
+      "source": "docs/mengchun/lichun.md",
+      "title": "立春 - 中国传统节日",
+      "pageTitle": "立春",
+      "slug": "mengchunlichun"
     }
   },
   "sources": {
@@ -288,6 +262,7 @@
     "docs/getting-started/more-pages.md": "getting-started/more-pages.html",
     "docs/getting-started/images-and-linking.md": "getting-started/images-and-linking.html",
     "docs/mengchun/chunjie.md": "mengchun/chunjie.html",
+    "docs/mengchun/lichun.md": "mengchun/lichun.html",
     "docs/docpress.json": "docpress.json",
     "docs/assets/custom.css": "assets/custom.css"
   }
