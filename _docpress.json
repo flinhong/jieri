@@ -121,7 +121,26 @@
             "title": "春节",
             "source": "docs/mengchun/chunjie.md",
             "url": "mengchun/chunjie.html",
-            "slug": "mengchunchunjie"
+            "slug": "mengchunchunjie",
+            "headings": [
+              {
+                "title": "春节由来",
+                "depth": 2,
+                "id": ""
+              },
+              {
+                "title": "春节习俗",
+                "depth": 2,
+                "id": "",
+                "headings": [
+                  {
+                    "title": "扫尘",
+                    "depth": 3,
+                    "id": ""
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
@@ -240,7 +259,26 @@
       "source": "docs/mengchun/chunjie.md",
       "title": "春节 - 中国传统节日",
       "pageTitle": "春节",
-      "slug": "mengchunchunjie"
+      "slug": "mengchunchunjie",
+      "headings": [
+        {
+          "title": "春节由来",
+          "depth": 2,
+          "id": ""
+        },
+        {
+          "title": "春节习俗",
+          "depth": 2,
+          "id": "",
+          "headings": [
+            {
+              "title": "扫尘",
+              "depth": 3,
+              "id": ""
+            }
+          ]
+        }
+      ]
     }
   },
   "sources": {
