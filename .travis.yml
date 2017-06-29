@@ -9,6 +9,7 @@ cache:
 
 # Build docs using latest docpress plugins
 script:
+- npm install
 - npm install docpress
 - ./bin/docpress build
 
