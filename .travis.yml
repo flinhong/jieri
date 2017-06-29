@@ -11,6 +11,7 @@ cache:
 script:
 - npm install
 - ./bin/docpress build
+- echo "jieri.flinhong.com" > ./_docpress/CNAME
 
 # Deploy to gh-pages
 after_success:
