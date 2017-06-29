@@ -1,3 +1,4 @@
 node_modules
 _docpress
 .nyc_output
+npm-debug.log
